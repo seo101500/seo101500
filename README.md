@@ -1,4 +1,4 @@
-###안녕하세요 zisu의 git입니다  👋
+안녕하세요 zisu의 git입니다  👋
 
 <!--
 **seo101500/seo101500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
