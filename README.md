@@ -16,6 +16,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/kotlin-232F3E?style=for-the-badge&logo=kotlin&logoColor=white">
 
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
 
  
 
